@@ -50,7 +50,7 @@ Sales trend analysis over time
 Category and region-wise visualizations
 User-friendly and business-focused design
 
-🖼️ Dashboard Preview
+🖼️ **Dashboard Preview**
 
 <img width="966" height="561" alt="report_img" src="https://github.com/user-attachments/assets/243d9b83-49d5-4b94-a123-c68093679438" />
 
